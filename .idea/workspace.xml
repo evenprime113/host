@@ -23,7 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb397844-98fc-482c-b2df-402fe37302ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/iframes-v1.m3u8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/master.m3u8" beforeDir="false" afterPath="$PROJECT_DIR$/master.m3u8" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +57,7 @@
       <updated>1682409253997</updated>
       <workItem from="1682409255063" duration="288000" />
       <workItem from="1682409552925" duration="1013000" />
+      <workItem from="1682425013810" duration="1540000" />
     </task>
     <servers />
   </component>
