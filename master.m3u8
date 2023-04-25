@@ -1,0 +1,8 @@
+EXTM3U
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="default",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="http://samsung.sweet.tv/streamTest/1/index-a1.m3u8"
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1140830,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.4d401e,mp4a.40.2",AUDIO="audio0"
+http://samsung.sweet.tv/streamTest/1/index-v1.m3u8
+
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=54658,RESOLUTION=640x360,CODECS="avc1.4d401e",URI="http://vodm1eu.sweet.tv/hls/20563/_-V84RQsOsof5VGxgAR7X64iZ9X_x0sTGmpNCxuX6uE5SCqFzgtmIoQzSIrJoKYVQQ/iframes-v1.m3u8"
