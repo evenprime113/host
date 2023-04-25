@@ -1,4 +1,4 @@
-EXTM3U
+#EXTM3U
 
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="default",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://evenprime113.github.io/host/index-a1.m3u8"
 
